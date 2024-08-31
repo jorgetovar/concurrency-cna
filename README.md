@@ -1,6 +1,7 @@
 # concurrency-cna
 
-Docker, Kubernetes, Prometheus, Jaeger, and many other great tools are written in Go. I was curious why, and the reason might be that Go is the cloud-native language par excellence. As demonstrated in this example, running parallel and concurrent tasks doesn’t require much code or ceremony.
+Docker, Kubernetes, Prometheus, Jaeger, and many other great tools are written in Go. I was curious why, and the reason might be that Go is the cloud-native language par excellence. As demonstrated in this example, running parallel and concurrent tasks doesn’t require tons of ceremony 👨‍🏫.
+
 ```bash
 Hello AWS Community!
 Getting https://example.com
